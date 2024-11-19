@@ -1,0 +1,10 @@
+0 30KM Speed
+1 60KM Speed
+2 Speed Break
+3 School Zone
+4 80KM Speed
+5 No Sound Zone
+6 No Parking
+7 Pedestrian 
+8 Road Work
+9 Train Track
